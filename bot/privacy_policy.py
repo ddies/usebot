@@ -6,7 +6,7 @@ class use(use_privacypolicy):
 
     def __init__(use):
 
-        use.privacy = "Privacy Policy for weekbot"
+        use.privacy = "Privacy Policy for usebot"
         use.malicious = "Any information we collect is not used maliciously. If any information stated here seems/is misleading, please contact us immediately at info@viliebot.com."
         use.stores = [
             "gulid IDs",
