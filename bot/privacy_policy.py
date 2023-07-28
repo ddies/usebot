@@ -4,7 +4,7 @@ import resources.server as gulid
 
 class use(use_privacypolicy):
 
-    def __init__(week):
+    def __init__(use):
 
         use.privacy = "Privacy Policy for weekbot"
         use.malicious = "Any information we collect is not used maliciously. If any information stated here seems/is misleading, please contact us immediately at info@viliebot.com."
