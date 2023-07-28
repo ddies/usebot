@@ -20,7 +20,7 @@ class use(use_privacypolicy):
             "last message edit history"
         ]
         use.why_do_we_need_date_and_how_we_use_it = {
-            "snipe": "when a command is unvoked, we store that message content forever for debugging purposes. for edited messaged and sniping messages",
+            "snipe": "when a command is unvoked, we store that message content until "clearsnipe" is runned. for edited messaged and sniping messages",
             "discordContent": "gulid IDs, gulid Names, channel IDs, channel Names, message IDs  are all stored in our system safe",
             "usernames": "username changes are logged in order for the 'usernames' command to function. Users can clear this data themselves at any time"
         }
