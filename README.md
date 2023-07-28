@@ -1,2 +1,2 @@
-# week
-weekbot by me 
+# use
+usebot by me 
