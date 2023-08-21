@@ -1,4 +1,4 @@
-import  resources.privacy as week_privacypolicy
+import  resources.privacy as use_privacypolicy
 
 import resources.server as gulid
 
@@ -7,7 +7,7 @@ class use(use_privacypolicy):
     def __init__(use):
 
         use.privacy = "Privacy Policy for usebot"
-        use.malicious = "Any information we collect is not used maliciously. If any information stated here seems/is misleading, please contact us immediately at info@viliebot.com."
+        use.malicious = "Any information we collect is not used maliciously. If any information stated here seems/is misleading, please contact us immediately at support@usebot.lol."
         use.stores = [
             "gulid IDs",
             "gulid Names",
@@ -28,7 +28,7 @@ class use(use_privacypolicy):
             "we do not sell and expose your information to third parties by any means"
         ]
         use.data_removal = [
-            "email info@viliebot.com to have your data deleted. note that when emailing, please be specific with that information that you want gone and provide ownership of your Discord account. response time may vary and could take up to two weeks to processed"
+            "email support@usebot.lol to have your data deleted. note that when emailing, please be specific with that information that you want gone and provide ownership of your Discord account. response time may vary and could take up to two weeks to processed"
         ]
         use.warn = "we can update these terms at any time without notice. continuing to use our services after any changes will mean that you agree with these terms and violation of our terms of service could result in a permanent ban across all of our services"
         
